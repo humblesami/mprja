@@ -6,6 +6,7 @@ const MyInfo = (props) => {
             <h2>My Info View</h2>
             <h3>Client-Only Route</h3>
             <table>
+                <tbody>
                 <tr>
                     <th>
                         Name
@@ -22,6 +23,7 @@ const MyInfo = (props) => {
                         example@demo.com
                     </td>
                 </tr>
+                </tbody>
             </table>
         </>
     )

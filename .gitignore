@@ -3,3 +3,7 @@ node_modules
 .env.*
 .env
 public
+yar.lock
+package-lock.json
+.vscode
+.idea
