@@ -15,3 +15,7 @@ nvm install node
 nvm install 14.17.6
 ---------------------------------------------------------------------------
 npm install -g gatsby-cli
+gatsby develop
+---------------------------------------------------------------------------
+For build
+https://www.gatsbyjs.com/docs/porting-an-html-site-to-gatsby/
